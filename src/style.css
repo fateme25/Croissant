@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(135deg, rgb(255, 168, 168) 10%, rgb(252, 255, 0) 100%) fixed;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+a {
+    font-size: 20px;
+    font-weight: 700;
+    padding-inline: 0.5rem;
+    text-decoration: none;
+    color: rgb(130, 105, 9);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
